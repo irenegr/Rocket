@@ -1,4 +1,4 @@
-#Rocket openbox themerc by fog
+# openbox themerc by fog
 
 menu.border.color: #363442
 #menu.items.active.bg: Solid Flat
@@ -34,10 +34,10 @@ window.active.button.disabled.image.color: #EBE0DE
 window.active.button.disabled.bg: ParentRelative Flat
 window.active.button.hover.bg: Solid Flat
 window.active.button.hover.bg.color: #363442
-window.active.button.hover.image.color: #7B7B7B
+window.active.button.hover.image.color: #6E445C
 window.active.button.pressed.bg: Solid Flat
 window.active.button.pressed.bg.color: #363442
-window.active.button.pressed.image.color: #7B7B7B
+window.active.button.pressed.image.color: #6E445C
 window.active.button.toggled.hover.bg: Solid Flat
 window.active.button.toggled.hover.bg.color: #363442
 window.active.button.toggled.image.color: #EBE0DE
